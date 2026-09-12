@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Custom Banner Asset -->
-  <img src="assets/pngwing.com%20(1).png" alt="Adesh Anurag Banner" width="100%" />
+  <!-- Creation of Adam Cropped Banner -->
+  <img src="assets/newHands.jpg" alt="Creation of Code Banner" width="100%" />
 
   <br/><br/>
 
@@ -96,7 +96,7 @@ My goal: bridge the gap between heavy research models and lean, deterministic pr
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adexxhh&theme=github-compact&bg_color=0D1117&color=58A6FF&line=388BFD&point=F0F6FC&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=adexxhh&theme=github-compact&bg_color=0D1117&color=58A6FF&line=388BFD&point=F0F6FC&area=true&hide_border=true" alt="Activity Graph" width="95%" />
 </p>
 
 ---
