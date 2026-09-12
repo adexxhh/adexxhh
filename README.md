@@ -1,13 +1,106 @@
-<h1 align="center">Hi 👋, I'm Adesh Anurag</h1>
-<h3 align="center">A passionate Machine learning and AI developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adexxhh&label=Profile%20views&color=0e75b6&style=flat" alt="adexxhh" /> </p>
+  <!-- Custom Banner Asset -->
+  <img src="assets/pngwing.com%20(1).png" alt="Adesh Anurag Banner" width="100%" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adesh-anurag-176a44254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adesh-anurag" height="30" width="40" /></a>
-<a href="https://instagram.com/adexxhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adexxhh" height="30" width="40" /></a>
+  <br/><br/>
+
+  <h1>Hi 👋, I'm Adesh</h1>
+  <h3>Data Engineer & Applied AI / ML Practitioner</h3>
+
+  <p><i>Building deterministic SLM pipelines, high-throughput microservices, and autonomous agents.</i></p>
+
+  <br/>
+</div>
+
+---
+
+### 🚀 About Me
+
+<p align="center">
+  <!-- Borderless Astronaut Floating Right -->
+  <img src="assets/19054527fdf8dc368603cdcf977f994a.png" alt="Pixel Cyber Astronaut" width="280" align="right" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Adesh** here — Data Engineering & ML developer from India, specializing in enterprise data workflows, scalable ETL architectures, and structured semantic pipelines.
+
+I build production-ready systems with **Python, PyTorch, FastAPI, PostgreSQL, and Docker**, focusing on deterministic outputs and sub-millisecond data ingestion.
+
+Currently diving deep into **SLM Distillation (QLoRA/PEFT), Model Context Protocol (MCP) governance**, and **AST static validation via Tree-sitter & sqlglot**.
+
+My goal: bridge the gap between heavy research models and lean, deterministic production software that scales effortlessly.
+
+<br clear="both"/>
+
+---
+
+### 🤝 Connect
+
+<p align="left">
+  <a href="https://github.com/adexxhh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/adesh-anurag-176a44254/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adeshanurag50@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+  <a href="https://adexxhh.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,postgres,sqlite,redis,docker,linux,git,bash,cpp,c,ts,js&theme=dark&perline=8" alt="Tech Stack" />
+</p>
+
+---
+
+### 🛠️ Flagship Systems
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧠 SLM Distillation Pipeline</h4>
+      <p>4-bit QLoRA distillation transferring enterprise SQL synthesis into an 8B SLM with <code>sqlglot</code> AST validation.</p>
+      <a href="https://github.com/adexxhh/slm-finetuning-distillation-pipeline"><b>View Repository ➔</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚡ Async Agent Core Engine</h4>
+      <p>Decoupled async microservice serving <b>446+ RPS</b> at 0.88ms latency with LangGraph and Redis SSE streaming.</p>
+      <a href="https://github.com/adexxhh/autonomous-code-editor"><b>View Repository ➔</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🛡️ MCP Database Auditor</h4>
+      <p>Model Context Protocol server blocking destructive mutations in <b>0.35ms</b> with statistical data profiling.</p>
+      <a href="https://github.com/adexxhh/mcp-database-auditor"><b>View Repository ➔</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adexxhh&theme=tokyonight&hide_border=true&background=0D1117&ring=388BFD&fire=388BFD&currStreakLabel=388BFD" alt="GitHub Streak" width="75%" />
+</p>
+
+<br/>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adexxhh&theme=github-compact&bg_color=0D1117&color=58A6FF&line=388BFD&point=F0F6FC&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adexxhh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+</p>
